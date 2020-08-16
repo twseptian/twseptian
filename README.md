@@ -9,9 +9,6 @@
 | $$/   \  $$|  $$$$$$$| $$|  $$$$$$$|  $$$$$$/| $$ | $$ | $$|  $$$$$$$
 |__/     \__/ \_______/|__/ \_______/ \______/ |__/ |__/ |__/ \_______/
 ```                                                                       
-                                                                      
-                                                                       
-                                                                                                                      \______/                           |__/                
 <!--
 **twseptian/twseptian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
