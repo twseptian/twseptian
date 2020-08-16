@@ -20,7 +20,8 @@ and [Research Gate](https://www.researchgate.net/profile/Tri_Septian). If you ar
 Let's make a friend, and follow my social media accounts, [Linkedin](https://www.linkedin.com/in/twseptian/), [Github](https://github.com/twseptian), [Twitter](https://twitter.com/twseptian_). My old Stories on [Blogspot](https://twseptian.blogspot.com/) \***not updated**. CTF Platform [HackTheBox](https://www.hackthebox.eu/profile/183432), [TryHackMe](https://tryhackme.com/p/twsterlab), Bug bounty program [Bugcrowd](https://bugcrowd.com/twseptian).
 
 <img src="http://www.hackthebox.eu/badge/image/183432" alt="Hack The Box">
-<img src="https://tryhackme-badges.s3.amazonaws.com/twsterlab.png" alt="TryHackMe">
+
+<script src="https://tryhackme.com/badge/50503"></script>
 
 <!--
 **twseptian/twseptian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
