@@ -9,11 +9,12 @@
 | $$/   \  $$|  $$$$$$$| $$|  $$$$$$$|  $$$$$$/| $$ | $$ | $$|  $$$$$$$
 |__/     \__/ \_______/|__/ \_______/ \______/ |__/ |__/ |__/ \_______/
 ``` 
-I am just an ordinary man who has a passion for information security and a heterogeneous network. I have completed a Master of Science (M.Sc) degree (2019) in Electrical Engineering and Computer Science at National Taipei University of Technology, and I also received a bachelor's degree (S.Kom) (2013) in Computer Science at Universitas Sriwijaya.
+An ordinary man has a passion for information security and a heterogeneous network. He completed a Master of Science (M.Sc) degree (2019) in [Electrical Engineering and Computer Science](https://eecs.ntut.edu.tw/p/412-1016-13488.php?Lang=en) at [National Taipei University of Technology](https://www-en.ntut.edu.tw/). He also received bachelor degree (S.Kom) (2013) in [Computer Science](http://ilkom.unsri.ac.id) at [Universitas Sriwijaya](https://unsri.ac.id).
 
-My researches are archived on Google Scholar and Research Gate. If you are interested in my research, feel free to read and learn. If you have some questions/discussions, you can email me.
+My researches are archived on [Google Scholar](https://scholar.google.com.tw/citations?user=XMuXhkAAAAAJ&hl=en)
+and [Research Gate](https://www.researchgate.net/profile/Tri_Septian). If you are interested in my research, feel free to read and learn. If you have some questions/discussions, you can [email me](mailto:twseptian@gmail.com).
 
-Let's make a friend, and follow my social media accounts, Linkedin, Github *this page, Twitter. My old Stories on Blogspot *not updated. CTF Platform HackTheBox, TryHackMe, Bug bounty program Bugcrowd.
+Let's make a friend, and follow my social media accounts, [Linkedin](https://www.linkedin.com/in/twseptian/), [Github](https://github.com/twseptian), [Twitter](https://twitter.com/twseptian_). My old Stories on [Blogspot](https://twseptian.blogspot.com/) \***not updated**. CTF Platform [HackTheBox](https://www.hackthebox.eu/profile/183432), [TryHackMe](https://tryhackme.com/p/twsterlab), Bug bounty program [Bugcrowd](https://bugcrowd.com/twseptian).
 
 <!--
 **twseptian/twseptian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
