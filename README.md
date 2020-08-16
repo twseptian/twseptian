@@ -21,7 +21,7 @@ Let's make a friend, and follow my social media accounts, [Linkedin](https://www
 
 <img src="http://www.hackthebox.eu/badge/image/183432" alt="Hack The Box">
 
-<script src="https://tryhackme.com/badge/50503"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/twsterlab.png" alt="TryHackMe">
 
 <!--
 **twseptian/twseptian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
