@@ -9,7 +9,7 @@
 | $$/   \  $$|  $$$$$$$| $$|  $$$$$$$|  $$$$$$/| $$ | $$ | $$|  $$$$$$$
 |__/     \__/ \_______/|__/ \_______/ \______/ |__/ |__/ |__/ \_______/
 ``` 
-I am just an ordinary man has a passion for information security and a heterogeneous network. He completed a Master of Science (M.Sc) degree (2019) in [Electrical Engineering and Computer Science](https://eecs.ntut.edu.tw/p/412-1016-13488.php?Lang=en) at [National Taipei University of Technology](https://www-en.ntut.edu.tw/). He also received bachelor degree (S.Kom) (2013) in [Computer Science](http://ilkom.unsri.ac.id) at [Universitas Sriwijaya](https://unsri.ac.id).
+I am just an ordinary man has a passion for information security and a heterogeneous network. I have completed a Master of Science (M.Sc) degree (2019) in [Electrical Engineering and Computer Science](https://eecs.ntut.edu.tw/p/412-1016-13488.php?Lang=en) at [National Taipei University of Technology](https://www-en.ntut.edu.tw/), and I also received bachelor degree (S.Kom) (2013) in [Computer Science](http://ilkom.unsri.ac.id) at [Universitas Sriwijaya](https://unsri.ac.id).
 
 ### Research and Publications
 The archives of my research on [Google Scholar](https://scholar.google.com.tw/citations?user=XMuXhkAAAAAJ&hl=en)
