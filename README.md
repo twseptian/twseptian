@@ -17,7 +17,7 @@ The archives of my research on [Google Scholar](https://scholar.google.com.tw/ci
 and [Research Gate](https://www.researchgate.net/profile/Tri_Septian). If you are interesting about my research, feel free to read and learn. If you have some questions/discustions, you can [email me](mailto:twseptian@gmail.com).
 
 ## Contact
-Let's make a friend, and follow my social media accounts, [Linkedin](https://www.linkedin.com/in/twseptian/), [Github](https://github.com/twseptian)**this page**, [Twitter](https://twitter.com/twseptian_). My old Stories on [Blogspot](https://twseptian.blogspot.com/) \***not updated**. CTF Platform [HackTheBox](https://www.hackthebox.eu/profile/183432), [TryHackMe](https://tryhackme.com/p/twsterlab), Bug bounty program [Bugcrowd](https://bugcrowd.com/twseptian).
+Let's make a friend, and follow my social media accounts, [Linkedin](https://www.linkedin.com/in/twseptian/), [Github](https://github.com/twseptian) ***this page**, [Twitter](https://twitter.com/twseptian_). My old Stories on [Blogspot](https://twseptian.blogspot.com/) \***not updated**. CTF Platform [HackTheBox](https://www.hackthebox.eu/profile/183432), [TryHackMe](https://tryhackme.com/p/twsterlab), Bug bounty program [Bugcrowd](https://bugcrowd.com/twseptian).
 
 <!--
 **twseptian/twseptian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
