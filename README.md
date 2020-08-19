@@ -16,7 +16,7 @@ Reseacher, pentester, ctf player, bug hunter.
 - [TryHackMe](https://tryhackme.com/p/twsterlab)
 - [Bugcrowd](https://bugcrowd.com/twseptian)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/twseptian_?label=follow%20%40twseptian_&style=flat-square)
+[![Twitter Follow](https://img.shields.io/twitter/follow/twseptian_?label=follow%20%40twseptian_&style=flat-square)](https://twitter.com/twseptian_)
 ![HackTheBox](https://img.shields.io/badge/hackthebox-twseptian-green)
 <!--
 **twseptian/twseptian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
