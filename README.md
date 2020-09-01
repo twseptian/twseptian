@@ -10,11 +10,7 @@
 |__/     \__/ \_______/|__/ \_______/ \______/ |__/ |__/ |__/ \_______/
 ``` 
 reseacher, pentester, ctf player, bug hunter.
-- [Google Scholar](https://scholar.google.com.tw/citations?user=XMuXhkAAAAAJ&hl=en)
-- [Research Gate](https://www.researchgate.net/profile/Tri_Septian)
-- [HackTheBox](https://www.hackthebox.eu/profile/183432)
-- [TryHackMe](https://tryhackme.com/p/twsterlab)
-- [Bugcrowd](https://bugcrowd.com/twseptian)
+[Google Scholar](https://scholar.google.com.tw/citations?user=XMuXhkAAAAAJ&hl=en) | [Research Gate](https://www.researchgate.net/profile/Tri_Septian) | [HackTheBox](https://www.hackthebox.eu/profile/183432) | [TryHackMe](https://tryhackme.com/p/twsterlab) | [Bugcrowd](https://bugcrowd.com/twseptian)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/twseptian_?label=follow%20%40twseptian_&style=flat-square)](https://twitter.com/twseptian_)
 <!--
