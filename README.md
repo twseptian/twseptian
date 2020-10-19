@@ -9,7 +9,7 @@
 |__/     \__/ \_______/|__/ \_______/ \______/ |__/ |__/ |__/ \_______/
 ``` 
 ### Hi there 👋, I am twseptian
-**reseacher, pentester, ctf player, bug hunter.**
+**student, reseacher, pentester, ctf player, bug hunter.**
 
 [Google Scholar](https://scholar.google.com.tw/citations?user=XMuXhkAAAAAJ&hl=en) | [Research Gate](https://www.researchgate.net/profile/Tri_Septian) | [HackTheBox](https://www.hackthebox.eu/profile/183432) | [TryHackMe](https://tryhackme.com/p/twsterlab) | [Bugcrowd](https://bugcrowd.com/twseptian)
 
