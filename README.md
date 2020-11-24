@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Tri Wanda Septian
-**student, reseacher, pentester, ctf player, bug hunter.**
+**_student, reseacher, pentester, ctf player, bug hunter._**
 
 ![Kali Linux](https://img.shields.io/badge/kalilinux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
