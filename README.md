@@ -19,4 +19,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twseptian/)
 [![Github](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/twseptian)
 <br>
+<img src="http://www.hackthebox.eu/badge/image/183432" alt="Hack The Box">
+<img src="https://tryhackme-badges.s3.amazonaws.com/twsterlab.png" alt="TryHackMe">
+<br>
 ![Tri Wanda Septian's github stats](https://github-readme-stats.vercel.app/api?username=twseptian&theme=blue-green)
