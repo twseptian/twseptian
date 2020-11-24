@@ -13,7 +13,9 @@
 
 [Google Scholar](https://scholar.google.com.tw/citations?user=XMuXhkAAAAAJ&hl=en) | [Research Gate](https://www.researchgate.net/profile/Tri_Septian) | [HackTheBox](https://www.hackthebox.eu/profile/183432) | [TryHackMe](https://tryhackme.com/p/twsterlab) | [Bugcrowd](https://bugcrowd.com/twseptian)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/twseptian_?label=follow%20%40twseptian_&style=flat-square)](https://twitter.com/twseptian_)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/twseptian_)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twseptian/)
+[![Github](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/twseptian)
 <!--
 **twseptian/twseptian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
