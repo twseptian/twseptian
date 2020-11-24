@@ -6,6 +6,7 @@
 ![MacOS](https://img.shields.io/badge/macos-999999?logo=apple&logoColor=white&style=for-the-badge)
 [![Google Scholar](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=XMuXhkAAAAAJ&hl=en)
 [![Researchgate](https://img.shields.io/badge/researchgate-%2300CCBB.svg?&style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Tri_Septian)
+[![Scopus](https://img.shields.io/badge/scopus-%23E9711C.svg?&style=for-the-badge&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57194205196)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/twseptian_)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twseptian/)
 [![Blogger](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://twseptian.blogspot.com/)
