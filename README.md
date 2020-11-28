@@ -18,3 +18,5 @@
 <img src="http://www.hackthebox.eu/badge/image/183432" alt="Hack The Box">
 <br>
 ![Tri Wanda Septian's github stats](https://github-readme-stats.vercel.app/api?username=twseptian&theme=blue-green)
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=twseptian&theme=blue-green)
