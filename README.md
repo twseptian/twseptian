@@ -16,7 +16,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23100000.svg?&style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/twsterlab)
 <br>
 <img src="http://www.hackthebox.eu/badge/image/183432" alt="Hack The Box">
-<a href="https://www.buymeacoffee.com/twseptian"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a OSCP&emoji=💻&slug=twseptian&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a>
+<a href="https://www.buymeacoffee.com/twseptian"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a OSCP&emoji=💻&slug=twseptian&button_colour=7b7474&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
 </br>
 ![Tri Wanda Septian's github stats](https://github-readme-stats.vercel.app/api?username=twseptian&theme=blue-green)
 
