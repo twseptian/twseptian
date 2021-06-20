@@ -6,6 +6,7 @@
 [![Scopus](https://img.shields.io/badge/scopus-%23E9711C.svg?&style=for-the-badge&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57194205196)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/twseptian_)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twseptian/)
+<br>
 [![Blogger](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://twseptian.blogspot.com/)
 [![Github](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/twseptian)
 [![Hackerone](https://img.shields.io/badge/hackerone-%23494649.svg?&style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/twseptian)
