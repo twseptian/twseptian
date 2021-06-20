@@ -1,9 +1,6 @@
 ### Hi there 👋, I am Tri Wanda Septian
-**_student, reseacher, pentester, ctf player, bug hunter._**
+**_student, assistant lecturer, reseacher, pentester, ctf player, bug hunter._**
 
-![Kali Linux](https://img.shields.io/badge/kalilinux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
-![MacOS](https://img.shields.io/badge/macos-999999?logo=apple&logoColor=white&style=for-the-badge)
 [![Google Scholar](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=XMuXhkAAAAAJ&hl=en)
 [![Researchgate](https://img.shields.io/badge/researchgate-%2300CCBB.svg?&style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Tri_Septian)
 [![Scopus](https://img.shields.io/badge/scopus-%23E9711C.svg?&style=for-the-badge&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57194205196)
