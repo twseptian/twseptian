@@ -1,4 +1,5 @@
 ### Hi there 👋, I am Tri Wanda Septian
+![](https://komarev.com/ghpvc/?username=twseptian)
 **_student, assistant lecturer, reseacher, pentester, ctf player, bug hunter._**
 
 [![Google Scholar](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=XMuXhkAAAAAJ&hl=en)
