@@ -21,5 +21,3 @@
 <a href="https://www.buymeacoffee.com/twseptian"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=twseptian&button_colour=4d4d4d&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
 </br>
 ![Tri Wanda Septian's github stats](https://github-readme-stats.vercel.app/api?username=twseptian&theme=blue-green)
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=twseptian&theme=blue-green)
