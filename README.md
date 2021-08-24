@@ -15,6 +15,8 @@
 [![Hackerone](https://img.shields.io/badge/hackerone-%23494649.svg?&style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/twseptian)
 [![Bugcrowd](https://img.shields.io/badge/bugcrowd-%23FE7A16.svg?&style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/twseptian)
 <br>
+<a href="https://www.credly.com/badges/e8a6460f-a564-489d-a569-30f926de907a"><img src="https://images.credly.com/size/340x340/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" alt="OSCP" height="90" weight="90"></a>
+<br>
 <img src="http://www.hackthebox.eu/badge/image/183432" alt="Hack The Box">
 <a href="https://tryhackme.com/p/twsterlab"><img src="https://twseptian.github.io/assets/images/thm-twsterlab.png" alt="TryHackMe"></a>
 <br>
