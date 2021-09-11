@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=twseptian)
 <a href="https://github.com/twseptian" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 <br>
-**Researchs, Publications, and Works**<br>
+**Research, Publications, and Works**<br>
 [![Google Scholar](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=XMuXhkAAAAAJ&hl=en)
 [![Researchgate](https://img.shields.io/badge/researchgate-%2300CCBB.svg?&style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Tri_Septian)
 [![Scopus](https://img.shields.io/badge/scopus-%23E9711C.svg?&style=for-the-badge&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57194205196)
