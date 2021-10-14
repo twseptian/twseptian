@@ -1,5 +1,5 @@
 ### Hi there 👋, I am **_Tri Wanda Septian_** 
-**_student, researcher, pentester, ctf player, bug hunter._**
+**_researcher, pentester, ctf player, bug hunter._**
 
 ![](https://komarev.com/ghpvc/?username=twseptian)
 <a href="https://github.com/twseptian" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
