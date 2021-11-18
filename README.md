@@ -15,7 +15,7 @@ I am [**Tri Wanda Septian**](https://twseptian.github.io/) (researcher, penteste
 <a href="https://www.credly.com/badges/e8a6460f-a564-489d-a569-30f926de907a"><img src="https://images.credly.com/size/340x340/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" alt="OSCP" height="60" width="60"></a>
 <a href="https://mikrotik.com/training/certificates/b51121c81a4786e8ce7"><img src="https://twseptian.github.io/assets/images/mtcna.png" heigh="100" width="100"></a>
 
-💻 **Pentesting & Bug Hunting Platform**<br>
+💻 **Pentesting,CTF & Bug Hunting Platform**<br>
 <img src="http://www.hackthebox.eu/badge/image/183432" alt="Hack The Box">
 <a href="https://tryhackme.com/p/twsterlab"><img src="https://twseptian.github.io/assets/images/thm-twsterlab.png" alt="TryHackMe"></a><br>
 [![Hackerone](https://img.shields.io/badge/hackerone-%23494649.svg?&style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/twseptian)
