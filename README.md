@@ -27,6 +27,8 @@ I am [**Tri Wanda Septian**](https://twseptian.github.io/) (researcher, penteste
 [![Blogger](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://twseptian.blogspot.com/)
 
 💸 **Support My Works**<br>
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
 <a href="https://www.buymeacoffee.com/twseptian"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=twseptian&button_colour=4d4d4d&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
 </br>
 ![Tri Wanda Septian's github stats](https://github-readme-stats.vercel.app/api?username=twseptian&theme=blue-green)
