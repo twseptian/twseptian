@@ -23,6 +23,7 @@ I am [**Tri Wanda Septian**](https://twseptian.github.io/) (researcher, penteste
 [![Bugcrowd](https://img.shields.io/badge/bugcrowd-%23FE7A16.svg?&style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/twseptian)
 
 🌐 **Follow My Social Media**<br>
+💬 ask me about anything, and you can follow my social media<br>
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/twseptian_)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twseptian/)
 [![Blogger](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://twseptian.blogspot.com/)
