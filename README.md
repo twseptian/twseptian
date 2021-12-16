@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taught information security,ctf and a freelance Penetration Tester. Currently, as a infosec and heteregenous network researcher.
+I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taught information security,ctf. Currently, as a infosec, heteregenous network researcher and a freelance Penetration Tester.
 
 ![](https://komarev.com/ghpvc/?username=twseptian)
 <a href="https://github.com/twseptian" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
