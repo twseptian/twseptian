@@ -31,6 +31,6 @@ I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taug
 💸 **Support My Works**<br>
 if you like what i do, maybe consider buying me a coffee :coffee: 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/twseptian"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=twseptian&button_colour=4d4d4d&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
+<a href="https://www.buymeacoffee.com/twseptian" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </br>
 ![Tri Wanda Septian's github stats](https://github-readme-stats.vercel.app/api?username=twseptian&theme=blue-green)
