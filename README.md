@@ -14,12 +14,12 @@ I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taug
 🏅 **Certifications**<br>
 <a href="https://www.credly.com/badges/e8a6460f-a564-489d-a569-30f926de907a"><img src="https://images.credly.com/size/340x340/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" alt="OSCP" height="60" width="60"></a>
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=PT/lBHpBqJmv25cmnUnNBgw+gbw9/7R5i+CSXG/NGXY="><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CSCU_BB8BB6E9DDE8.png" alt="CSCU" height="60" width="60"></a>
-<a href="https://mikrotik.com/training/certificates/b51121c81a4786e8ce7"><img src="https://twseptian.github.io/assets/images/mtcna.png" heigh="100" width="100"></a>
+<a href="https://mikrotik.com/training/certificates/b51121c81a4786e8ce7"><img src="https://twseptian.github.io/assets/images/mtcna.png" width="100"></a>
 
 💻 **Pentesting,CTF & Bug Hunting Platform**<br>
 <img src="http://www.hackthebox.eu/badge/image/183432" alt="Hack The Box">
-<a href="https://tryhackme.com/p/twsterlab"><img src="https://twseptian.github.io/assets/images/thm-twsterlab.png" alt="TryHackMe"></a><br>
-<a href="https://pentesterlab.com/profile/twsterlab"><img src="https://twseptian.github.io/assets/images/pentesterlab.png" height="160" width="160"></a>
+<a href="https://tryhackme.com/p/twsterlab"><img src="https://tryhackme-badges.s3.amazonaws.com/twsterlab.png" alt="TryHackMe" width="210"></a>
+<a href="https://pentesterlab.com/profile/twsterlab"><img src="https://twseptian.github.io/assets/images/pentesterlab.png" width="180"></a><br>
 [![Hackerone](https://img.shields.io/badge/hackerone-%23494649.svg?&style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/twseptian)
 [![Bugcrowd](https://img.shields.io/badge/bugcrowd-%23FE7A16.svg?&style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/twseptian)
 
