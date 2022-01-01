@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taught information security,ctf. Currently, as a infosec and heteregenous network researcher and also a freelance Penetration Tester.
 
 ![](https://komarev.com/ghpvc/?username=twseptian)
@@ -25,12 +25,12 @@ I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taug
 [![Bugcrowd](https://img.shields.io/badge/bugcrowd-%23FE7A16.svg?&style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/twseptian)
 
 # 🌐 **Follow My Social Media**<br>
-# 💬 ask me about anything, and you can follow my social media<br>
+💬 ask me about anything, and you can follow my social media<br>
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/twseptian_)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twseptian/)
 [![Blogger](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white)](https://twseptian.blogspot.com/)
 
-💸 **Support My Works**<br>
+# 💸 **Support My Works**<br>
 if you like what i do, maybe consider buying me a coffee :coffee: 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/twseptian" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
