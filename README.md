@@ -13,7 +13,7 @@ I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taug
 
 # 🏅 **Certifications**<br>
 <a href="https://www.credly.com/badges/e8a6460f-a564-489d-a569-30f926de907a"><img src="https://images.credly.com/size/340x340/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" alt="OSCP" height="60" width="60"></a>
-<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=RjLpHlv94HwrHByLKZw02VkNYlg0sDNqTcb0UnyQ760="><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png" alt="CSCU" height="60" width="60"></a>
+<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=RjLpHlv94HwrHByLKZw02VkNYlg0sDNqTcb0UnyQ760="><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png" alt="CEH Practical" height="60" width="60"></a>
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=PT/lBHpBqJmv25cmnUnNBgw+gbw9/7R5i+CSXG/NGXY="><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CSCU_BB8BB6E9DDE8.png" alt="CSCU" height="60" width="60"></a>
 
 <a href="https://mikrotik.com/training/certificates/b51121c81a4786e8ce7"><img src="https://twseptian.github.io/assets/images/mtcna.png" width="100"></a>
