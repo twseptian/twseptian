@@ -29,7 +29,12 @@ I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taug
 [![Bugcrowd](https://img.shields.io/badge/bugcrowd-%23FE7A16.svg?&style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/twseptian)
 
 ## 📈 My GitHub Stats
-![Tri Wanda Septian's github stats](https://github-readme-stats.vercel.app/api?username=twseptian&theme=blue-green)
+<a href="https://cerbersec.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=twseptian&count_private=true&show_icons=true&line_height=33&theme=tokyonight" alt="Cerbersec's GitHub Stats" />
+</a>
+<a href="https://cerbersec.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twseptian&langs_count=4&line_height=35&theme=tokyonight" />
+</a>
 
 ## 💸 **Support My Works**<br>
 if you like what i do, maybe consider buying me a coffee :coffee: 🥺👉👈
