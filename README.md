@@ -15,14 +15,11 @@ I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taug
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=ORCID&logoColor=white)](https://orcid.org/0000-0001-7031-7343)
 - 💻 Vulnerability research : [![ExploitDB Badge](https://img.shields.io/badge/-ExploitDB-red?style=flat&logo=exploitdb&logoColor=blue&link=hhttps://www.exploit-db.com/?author=11552)](https://www.exploit-db.com/?author=11552) [![Hackerone](https://img.shields.io/badge/-hackerone-black?logo=hackerone&color=gray&style=flat)](https://hackerone.com/twseptian)
 [![Bugcrwod](https://img.shields.io/badge/bugcrowd-%23FE7A16.svg?logo=bugcrowd&color=white&style=flat)](https://bugcrowd.com/twseptian)
+- 💻 Pentesting,CTF: [![HackTheBox](https://img.shields.io/badge/-hackthebox-lightgrey?logo=hackthebox&color=gray&style=flat)](https://app.hackthebox.com/profile/183432)
+[![TryHackMe](https://img.shields.io/badge/-tryhackme-red?logo=tryhackme&color=gray&style=flat)](https://tryhackme.com/p/twsterlab)
+[![Pentesterlab](https://img.shields.io/badge/-pentesterlab-blue?logo=pentesterlab&color=blue&style=flat)](https://pentesterlab.com/profile/twsterlab)
 - 💸 Support My Works : [![bmc twseptian](https://img.shields.io/badge/support-@-ff69b4.svg?style=flat&color=white&logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/twseptian)
-- 🏅 Certifications :<br>
-<a href="https://www.credly.com/badges/e8a6460f-a564-489d-a569-30f926de907a"><img src="https://images.credly.com/size/340x340/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" alt="OSCP" height="60" width="60"></a>
-<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=RjLpHlv94HwrHByLKZw02VkNYlg0sDNqTcb0UnyQ760="><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CEHPRACTICAL_5FB43496785F.png" alt="CEH Practical" height="60" width="60"></a>
-<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=PT/lBHpBqJmv25cmnUnNBgw+gbw9/7R5i+CSXG/NGXY="><img src="https://aspen.eccouncil.org/Content/Badges/CertifiedBadges/CSCU_BB8BB6E9DDE8.png" alt="CSCU" height="60" width="60"></a>
-<a href="https://mikrotik.com/training/certificates/b51121c81a4786e8ce7"><img src="https://twseptian.github.io/assets/images/mtcna.png" height="60"></a>
-- 💻 Pentesting,CTF:<br>
-<img src="http://www.hackthebox.eu/badge/image/183432" alt="Hack The Box"> <a href="https://tryhackme.com/p/twsterlab"><img src="https://tryhackme-badges.s3.amazonaws.com/twsterlab.png" alt="TryHackMe" width="210"></a> <a href="https://pentesterlab.com/profile/twsterlab"><img src="https://twseptian.github.io/assets/images/pentesterlab.png" width="180"></a><br>
+- 🏅 Certifications : OSCP, CEH Practical, EC-Council's CSCU
 
 ### 📈 My GitHub Stats
 <a href="https://cerbersec.com">
