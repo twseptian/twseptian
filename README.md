@@ -8,6 +8,8 @@ I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taug
 [![Linkedin Badge](https://img.shields.io/badge/-twseptian-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/twseptian/)](https://www.linkedin.com/in/twseptian/)
 [![GitHub twseptian](https://img.shields.io/github/followers/twseptian?label=follow&style=social)](https://github.com/twseptian)
 [![GitHub stars](https://img.shields.io/github/stars/twseptian?logo=GitHub&style=social)](https://github.com/twseptian)
+[![GitLab](https://img.shields.io/badge/-gitlab-%23FCA121?logo=gitlab&color=gray&style=social)](https://gitlab.com/twseptian/)
+[![Credly](https://img.shields.io/badge/-credly-%23FF6B00.svg?logo=credly&color=gray&style=flat)](https://www.credly.com/users/tri-wanda-septian/badges)
 [![Gmail Badge](https://img.shields.io/badge/-twseptian@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:twseptian@gmail.com)](mailto:twseptian@gmail.com)
 - 📖 Research, Publications, and Works : [![Google Scholar](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=XMuXhkAAAAAJ&hl=en)
 [![Researchgate](https://img.shields.io/badge/researchgate-%2300CCBB.svg?&style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Tri_Septian)
