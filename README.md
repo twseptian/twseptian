@@ -15,10 +15,10 @@ I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taug
 [![Researchgate](https://img.shields.io/badge/researchgate-%2300CCBB.svg?&style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Tri_Septian)
 [![Scopus](https://img.shields.io/badge/scopus-%23E9711C.svg?&style=flat&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57194205196)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=ORCID&logoColor=white)](https://orcid.org/0000-0001-7031-7343)
-- 💻 Vulnerability research : [![ExploitDB Badge](https://img.shields.io/badge/-ExploitDB-red?style=flat&logo=kalilinux&logoColor=blue&link=hhttps://www.exploit-db.com/?author=11552)](https://www.exploit-db.com/?author=11552) [![Hackerone](https://img.shields.io/badge/-hackerone-black?logo=hackerone&color=gray&style=flat)](https://hackerone.com/twseptian)
+- 💻 Vulnerability research : [![ExploitDB Badge](https://img.shields.io/badge/-ExploitDB-red?style=flat&logo=kalilinux&logoColor=white&link=hhttps://www.exploit-db.com/?author=11552)](https://www.exploit-db.com/?author=11552) [![Hackerone](https://img.shields.io/badge/-hackerone-black?logo=hackerone&color=gray&style=flat)](https://hackerone.com/twseptian)
 [![Bugcrwod](https://img.shields.io/badge/bugcrowd-%23FE7A16.svg?logo=bugcrowd&color=white&style=flat)](https://bugcrowd.com/twseptian)
-- 💻 Pentesting,CTF: [![HackTheBox](https://img.shields.io/badge/-hackthebox-lightgrey?logo=hackthebox&color=gray&style=flat)](https://app.hackthebox.com/profile/183432)
-[![TryHackMe](https://img.shields.io/badge/-tryhackme-red?logo=tryhackme&color=gray&style=flat)](https://tryhackme.com/p/twsterlab)
+- 💻 Pentesting,CTF: [![HackTheBox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/183432)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/twsterlab)
 [![Pentesterlab](https://img.shields.io/badge/-pentesterlab-blue?logo=pentesterlab&color=blue&style=flat)](https://pentesterlab.com/profile/twsterlab)
 - 💸 Support My Works : [![bmc twseptian](https://img.shields.io/badge/support-@-ff69b4.svg?style=flat&color=white&logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/twseptian)
 - 🏅 Certifications : OSCP, CEH Practical, EC-Council's CSCU
