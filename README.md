@@ -24,10 +24,10 @@ I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taug
 - 🏅 Certifications : <a href="https://www.credly.com/badges/02bbb253-d62a-49c2-962f-2035b6f7f605">OSCP</a>, <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=RjLpHlv94HwrHByLKZw02VkNYlg0sDNqTcb0UnyQ760=">CEH Practical</a>, <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=PT/lBHpBqJmv25cmnUnNBgw+gbw9/7R5i+CSXG/NGXY=">EC-Council's CSCU</a>, <a href="https://mikrotik.com/training/certificates/b51121c81a4786e8ce7">MTCNA</a>
 
 ### 📈 My GitHub Stats
-<a href="https://cerbersec.com">
+<a href="https://twseptian.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=twseptian&count_private=true&show_icons=true&line_height=33&theme=tokyonight" alt="Cerbersec's GitHub Stats" />
 </a>
-<a href="https://cerbersec.com">
+<a href="https://twseptian.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twseptian&langs_count=4&line_height=35&theme=tokyonight" />
 </a>
 
