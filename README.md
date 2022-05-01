@@ -25,7 +25,7 @@ I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taug
 
 ### 📈 My GitHub Stats
 <a href="https://twseptian.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=twseptian&count_private=true&show_icons=true&line_height=33&theme=tokyonight" alt="Cerbersec's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=twseptian&count_private=true&show_icons=true&line_height=33&theme=tokyonight" alt="twseptian's GitHub Stats" />
 </a>
 <a href="https://twseptian.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twseptian&langs_count=4&line_height=35&theme=tokyonight" />
