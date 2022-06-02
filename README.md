@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://emojis.slackmojis.com/emojis/images/1643517063/31101/meow_fluffy-deal-with-it.gif?1643517063" width="25px">
+# Hi there
 I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taught information security, ctf. Currently, as a infosec, heteregenous network researcher and a Penetration Tester. 💬 ask me about anything, and you can follow my social media <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="20px"><br>
 
 ![Profile Viewer](https://komarev.com/ghpvc/?username=twseptian)
