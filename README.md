@@ -2,7 +2,6 @@
 I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taught information security, ctf. Currently, as a infosec, heteregenous network researcher and a Penetration Tester. 💬 ask me about anything, and you can follow my social media <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="20px"><br>
 
 ![Profile Viewer](https://komarev.com/ghpvc/?username=twseptian)
-<a href="https://github.com/twseptian" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 [![Profile last updated](https://img.shields.io/github/last-commit/twseptian/twseptian/master?label=Last%20updated&style=flat)](https://github.com/twseptian/twseptian/commits)
 <a href="https://twitter.com/twseptian_" ><img src="https://img.shields.io/twitter/follow/twseptian_.svg?style=social" /></a>
 [![Linkedin Badge](https://img.shields.io/badge/-twseptian-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/twseptian/)](https://www.linkedin.com/in/twseptian/)
@@ -18,7 +17,7 @@ I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taug
 [![ExploitDB Badge](https://img.shields.io/badge/-ExploitDB-red?style=flat&logo=kalilinux&logoColor=white&link=hhttps://www.exploit-db.com/?author=11552)](https://www.exploit-db.com/?author=11552)
 [![Bugcrwod](https://img.shields.io/badge/bugcrowd-%23FE7A16.svg?logo=bugcrowd&color=white&style=flat)](https://bugcrowd.com/twseptian)
 - 💸 Support My Works : [![bmc twseptian](https://img.shields.io/badge/support-@-ff69b4.svg?style=flat&color=white&logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/twseptian)
-- 🏅 Certifications : <a href="https://www.credly.com/badges/02bbb253-d62a-49c2-962f-2035b6f7f605">OSCP</a>, <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=RjLpHlv94HwrHByLKZw02VkNYlg0sDNqTcb0UnyQ760=">CEH Practical</a>, <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=PT/lBHpBqJmv25cmnUnNBgw+gbw9/7R5i+CSXG/NGXY=">EC-Council's CSCU</a>, <a href="https://mikrotik.com/training/certificates/b51121c81a4786e8ce7">MTCNA</a>
+- 🏅 Certifications : <a href="https://www.credly.com/badges/02bbb253-d62a-49c2-962f-2035b6f7f605">OSCP</a>, <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=RjLpHlv94HwrHByLKZw02VkNYlg0sDNqTcb0UnyQ760=">C|EH Practical</a>, <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=PT/lBHpBqJmv25cmnUnNBgw+gbw9/7R5i+CSXG/NGXY=">EC-Council's C|SCU</a>, <a href="https://mikrotik.com/training/certificates/b51121c81a4786e8ce7">MTCNA</a>
 
 ### 📈 My GitHub Stats
 <a href="https://twseptian.github.io/">
