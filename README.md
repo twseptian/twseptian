@@ -17,7 +17,7 @@ I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taug
 [![ExploitDB Badge](https://img.shields.io/badge/-ExploitDB-red?style=flat&logo=kalilinux&logoColor=white&link=hhttps://www.exploit-db.com/?author=11552)](https://www.exploit-db.com/?author=11552)
 [![Bugcrwod](https://img.shields.io/badge/bugcrowd-%23FE7A16.svg?logo=bugcrowd&color=white&style=flat)](https://bugcrowd.com/twseptian)
 - 💸 Support My Works : [![bmc twseptian](https://img.shields.io/badge/support-@-ff69b4.svg?style=flat&color=white&logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/twseptian)
-- 🏅 Certifications : <a href="https://www.credly.com/badges/02bbb253-d62a-49c2-962f-2035b6f7f605">OSCP</a>, <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=RjLpHlv94HwrHByLKZw02VkNYlg0sDNqTcb0UnyQ760=">C|EH Practical</a>, <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=PT/lBHpBqJmv25cmnUnNBgw+gbw9/7R5i+CSXG/NGXY=">EC-Council's C|SCU</a>, <a href="https://mikrotik.com/training/certificates/b51121c81a4786e8ce7">MTCNA</a>
+- 🏅 Certifications : <a href="https://www.credly.com/badges/02bbb253-d62a-49c2-962f-2035b6f7f605">OSCP</a>, <a href="https://verified.elearnsecurity.com/certificates/464509fc-8005-4133-b5a4-efa012bac615">eWPTXv2</a> <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=RjLpHlv94HwrHByLKZw02VkNYlg0sDNqTcb0UnyQ760=">, C|EH Practical</a>, <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=PT/lBHpBqJmv25cmnUnNBgw+gbw9/7R5i+CSXG/NGXY=">EC-Council's C|SCU</a>, <a href="https://mikrotik.com/training/certificates/b51121c81a4786e8ce7">MTCNA</a>
 
 ### 📈 My GitHub Stats
 <a href="https://twseptian.github.io/">
