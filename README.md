@@ -12,7 +12,7 @@ I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taug
 [![Scopus](https://img.shields.io/badge/scopus-%23E9711C.svg?&style=flat&logo=scopus&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57194205196)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=ORCID&logoColor=white)](https://orcid.org/0000-0001-7031-7343)
 - 💻 Pentesting, CTF, Bug Hunting: [![HackTheBox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/183432)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/twsterlab)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/twseptian)
 [![Pentesterlab](https://img.shields.io/badge/-pentesterlab-blue?logo=pentesterlab&color=blue&style=flat)](https://pentesterlab.com/profile/twsterlab)
 [![ExploitDB Badge](https://img.shields.io/badge/-ExploitDB-red?style=flat&logo=kalilinux&logoColor=white&link=hhttps://www.exploit-db.com/?author=11552)](https://www.exploit-db.com/?author=11552)
 [![Bugcrwod](https://img.shields.io/badge/bugcrowd-%23FE7A16.svg?logo=bugcrowd&color=white&style=flat)](https://bugcrowd.com/twseptian)
