@@ -1,6 +1,4 @@
 # Hi there
-I am [**Tri Wanda Septian**](https://twseptian.github.io/), passionate self-taught information security, ctf. Currently, as infosec, a heterogeneous network researcher, and a Penetration Tester. 💬 ask me about anything, and you can follow my social media <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="20px"><br>
-
 ![Profile Viewer](https://komarev.com/ghpvc/?username=twseptian)
 [![Profile last updated](https://img.shields.io/github/last-commit/twseptian/twseptian/master?label=Last%20updated&style=flat)](https://github.com/twseptian/twseptian/commits)
 <a href="https://twitter.com/twseptian_" ><img src="https://img.shields.io/twitter/follow/twseptian_.svg?style=social" /></a>
